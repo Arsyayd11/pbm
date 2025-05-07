@@ -6,7 +6,7 @@
 | Arsya Yan Duribta | 4522210117 |
 
 ## 🔗 Link Video Demo
-📺 [Tonton Demo di YouTube](https://youtu.be/VIDEO_ID)
+📺 [Demo Aplikasi](https://youtu.be/8DCUoOw_lIQ)
 
 Aplikasi Flutter untuk manajemen aktivitas harian, jadwal kuliah,dan profil mahasiswa dengan dukungan toggle dark mode.
 
