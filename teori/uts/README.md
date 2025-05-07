@@ -7,6 +7,7 @@
 
 ## 🔗 Link Video Demo
 📺 [Demo Aplikasi](https://youtu.be/8DCUoOw_lIQ)
+Link: https://youtu.be/8DCUoOw_lIQ
 
 Aplikasi Flutter untuk manajemen aktivitas harian, jadwal kuliah,dan profil mahasiswa dengan dukungan toggle dark mode.
 
