@@ -46,7 +46,7 @@ Aplikasi Flutter untuk manajemen aktivitas harian, jadwal kuliah,dan profil maha
 - ![Halaman Jadwal dark mode](screenshot/jadwal2.png)
 - ![Halaman Jadwal rail navbar](screenshot/jadwal3.png)
 - ![Halaman Jadwal drawer navbar](screenshot/jadwal4.png)
-- 
+
 ### 3. Profil (AkunPage)
 - Menampilkan profil mahasiswa dengan:
     - Foto profil
@@ -59,7 +59,7 @@ Aplikasi Flutter untuk manajemen aktivitas harian, jadwal kuliah,dan profil maha
 - ![Halaman Profil dark mode](screenshot/profil2.png)
 - ![Halaman Profil rail navbar](screenshot/profil3.png)
 - ![Halaman Profil drawer navbar](screenshot/profil4.png)
-- 
+
 ## Cara Menjalankan Aplikasi
 
 1. Pastikan Flutter SDK terinstall
