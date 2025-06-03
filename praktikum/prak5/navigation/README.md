@@ -62,7 +62,7 @@ Tujuan utama dari praktikum ini adalah untuk:
     * `Text`: Menampilkan data yang diterima melalui constructor widget (`Data from Home (Push)`).
     * `ElevatedButton` (`Text` untuk "Go Back"): Untuk kembali ke layar sebelumnya (`Navigator.pop`).
 * **Tangkapan Layar:**
-  ![DetailScreen via Push](img_1.png)
+  ![DetailScreen via Push](screenshot/img_1.png)
 
 ---
 
@@ -76,7 +76,7 @@ Tujuan utama dari praktikum ini adalah untuk:
     * `Text`: Menampilkan data yang diterima melalui `ModalRoute.of(context)?.settings.arguments` (`Data for Detail from Home (Named)`).
     * `ElevatedButton` (`Text` untuk "Go Back").
 * **Tangkapan Layar:**
-  ![DetailScreen via Named Route](img_2.png)
+  ![DetailScreen via Named Route](screenshot/img_2.png)
 
 ---
 
@@ -90,7 +90,7 @@ Tujuan utama dari praktikum ini adalah untuk:
     * `Text`: Menampilkan username yang diterima melalui `ModalRoute.of(context)?.settings.arguments`.
     * `ElevatedButton` (`Text` untuk "Go Back").
 * **Tangkapan Layar:**
-  ![SettingsScreen](img_3.png)
+  ![SettingsScreen](screenshot/img_3.png)
 
 ---
 
@@ -104,7 +104,7 @@ Tujuan utama dari praktikum ini adalah untuk:
     * `Text`: Menampilkan informasi tentang aplikasi.
     * `ElevatedButton` (`Text` untuk "Go Back").
 * **Tangkapan Layar:**
-  `![AboutScreen](img_4.png)`
+  `![AboutScreen](screenshot/img_4.png)`
 
 ---
 

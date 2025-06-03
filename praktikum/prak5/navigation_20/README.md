@@ -36,8 +36,6 @@ Berikut adalah tangkapan layar dari aplikasi beserta keterangannya dan widget ya
 
 ### 1. HomeScreen
 
-**(⬇️ SILAKAN SISIPKAN TANGKAPAN LAYAR HomeScreen DI SINI ⬇️)**
-
 **Keterangan:**
 Tangkapan layar ini menunjukkan halaman utama (`HomeScreen`) aplikasi. Halaman ini menampilkan daftar item yang tersedia. Setiap item dalam daftar menampilkan nama, ID, dan cuplikan singkat dari deskripsinya. Pengguna dapat mengetuk salah satu item untuk melihat detailnya.
 
@@ -55,8 +53,6 @@ Tangkapan layar ini menunjukkan halaman utama (`HomeScreen`) aplikasi. Halaman i
 ---
 
 ### 2. DetailScreen
-
-**(⬇️ SILAKAN SISIPKAN TANGKAPAN LAYAR DetailScreen DI SINI ⬇️)**
 
 **Keterangan:**
 Tangkapan layar ini menunjukkan halaman detail (`DetailScreen`) setelah pengguna memilih salah satu item dari `HomeScreen`. Halaman ini menampilkan informasi lengkap tentang item yang dipilih, termasuk ID, nama, dan deskripsi lengkapnya. Terdapat juga tombol untuk kembali ke `HomeScreen`.
